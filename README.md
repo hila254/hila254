@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full stack Engineering
 - 🌱 I’m currently learning Software engineering
 - 💞️ I’m looking to collaborate on C and python
-- 📫 How to reach me email: khilary4600@gmail.com WhatsApp: +254 113015069
+- 📫 How to reach me email: khilary4600@gmail.com WhatsApp: [+254113015069](https://wa.me/+254113015069?text=urlencodedtext)
 
 <!---
 hila254/hila254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
